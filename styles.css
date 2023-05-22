@@ -1,0 +1,36 @@
+header{
+    display: flex;
+    background-color: #773636;
+}
+
+h2{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+    color: white;
+}
+
+.logo{
+    border-radius: 60px;
+    max-width: 120px;
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+a:hover{
+    color: rgba(255, 255, 255, 0.7);
+}
+
+#screenshot{
+    padding: 20px;
+    border: 5px, solid, black;
+    text-align: center;
+}
+
+body{
+    background-color: darkslategrey;
+}
